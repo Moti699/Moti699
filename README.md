@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Moti699
+- 👀 I’m interested in providing Logistics, Supply Chain services and consulting...
+- 📫 How to reach me moti@mfs4b.com...
+- ⚡ Fun fact: F35 pilot...
+
+<!---
+Moti699/Moti699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
